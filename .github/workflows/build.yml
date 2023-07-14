@@ -3,7 +3,7 @@ name: Build
 on:
   push:
     branches:
-      - feature/cypress-front
+      - maester
 
 jobs:
   build:
